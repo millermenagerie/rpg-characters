@@ -1,26 +1,26 @@
-# {name}
+# Leenk
 
-- Class: {class}
-- Race: {race}
+- Class: Fighter
+- Race: Elf (precise with hammer)
 - Level: 1
 - XP: 0
-- Alignment: {alignment}
-- Look: {look}
+- Alignment: Good
+- Look: Wild hair, bright eyes, pale skin, lithe body
 
 ## Abilities
 
-- STR: {value}, {modifier}
-- DEX: {value}, {modifier}
-- CON: {value}, {modifier}
-- INT: {value}, {modifier}
-- WIS: {value}, {modifier}
-- CHA: {value}, {modifier}
+- STR: 16, +2
+- DEX: 15, +1
+- CON: 13, +1
+- INT: 8, -1
+- WIS: 9, +0
+- CHA: 12, +0
 
 ## Stats
 
-- Damage: {die}
-- Armor: {points}
-- Hit Points: {points}
+- Damage: d10
+- Armor: 1
+- Hit Points: 23
 
 ## Bonds
 - {bond}
@@ -28,11 +28,13 @@
 - {bond}
 
 ## Moves
-- {move}
-- {move}
-- {move}
+- Bend Bars, Lift Gates
+- Armored
+- Signature Weapon: Ornate Hammer (Hand), Versatile (Reach), Well-crafted (1w)
 
 ## Gear
-- {item}
-- {item}
-- {money}
+- dungeon rations 5x, 1w
+- chainmail 1a, 1w
+- adventuring gear 1w
+- healing potion 2x
+- 22 coins
