@@ -38,3 +38,4 @@
 - adventuring gear 1w
 - healing potion 2x
 - 22 coins
+-10 ft pole
